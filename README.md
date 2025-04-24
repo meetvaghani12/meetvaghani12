@@ -1,6 +1,6 @@
 # 🏡 Welcome to My GitHub!
 
-Hi there! I'm **Meet Vaghani** – a passionate full-stack developer and AI enthusiast.  
+Hi there! I'm **[Your Name]** – a passionate full-stack developer and AI enthusiast.  
 Currently working on **HomePraise** – a smart real estate platform with AI/ML-powered price prediction, live chat, Google Maps integration, an AI loan calculator, and more.
 
 ---
@@ -75,9 +75,18 @@ Currently working on **HomePraise** – a smart real estate platform with AI/ML-
 
 ---
 
-### 🔥 Projects
-- 🏡 **HomePraise** – Real estate platform with AI/ML, Maps, subscriptions, loan calculator, and smart notifications.
+## 📊 Cloud & DevOps
+
+<p align="left">
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+ <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+ <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
-> Let's connect and build amazing things! 🚀  
+
+
+> Let's connect and build amazing things! 🚀
