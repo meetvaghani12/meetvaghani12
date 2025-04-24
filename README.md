@@ -1,6 +1,6 @@
 # 🏡 Welcome to My GitHub!
 
-Hi there! I'm **[Your Name]** – a passionate full-stack developer and AI enthusiast.  
+Hi there! I'm **Meet Vaghani** – a passionate full-stack developer and AI enthusiast.  
 Currently working on **HomePraise** – a smart real estate platform with AI/ML-powered price prediction, live chat, Google Maps integration, an AI loan calculator, and more.
 
 ---
