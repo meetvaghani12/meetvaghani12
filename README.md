@@ -95,8 +95,6 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetvaghani12&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=meetvaghani12&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meetvaghani12&theme=dracula" alt="GitHub Activity Graph" />
