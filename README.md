@@ -86,7 +86,7 @@ Currently working on **HomePraise** – a smart real estate platform with AI/ML-
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetvaghani12&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetvaghani12&show_icons=true&count_private=true&theme=radical)
 
 
 
