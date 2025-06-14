@@ -85,9 +85,8 @@ Currently working on **HomePraise** – a smart real estate platform with AI/ML-
  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetvaghani12&show_icons=true&theme=radical)
-
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetvaghani12&show_icons=true&theme=radical)
 
 
 
