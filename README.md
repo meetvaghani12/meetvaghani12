@@ -1,7 +1,11 @@
 <h1 align="center">🏡 Welcome to My GitHub!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;AI%20Enthusiast;Real%20Estate%20Tech%20Innovator;Let’s%20build%20something%20amazing!&center=true&width=500&height=30&color=00bfff">
+  <img 
+    src="https://readme-typing-svg.demolab.com?lines=Full-stack%20Developer;AI%20Enthusiast;Real%20Estate%20Tech%20Innovator;Let’s%20build%20something%20amazing!&center=true&width=500&height=30&color=00bfff"
+    alt="Typing SVG"
+  />
 </p>
+
 
 <p align="center">
 Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack developer and AI enthusiast.  
