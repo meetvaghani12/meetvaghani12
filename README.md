@@ -88,5 +88,8 @@ Currently working on **HomePraise** – a smart real estate platform with AI/ML-
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=meetvaghani12&theme=radical)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetvaghani12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 > Let's connect and build amazing things! 🚀
