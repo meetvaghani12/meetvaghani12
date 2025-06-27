@@ -102,7 +102,7 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
 <p align="center">
   <!-- Text after the slash is HEX for the square colour (00bfff = sky-blue)        -->
   <img
-    src="https://ghchart.rshah.org/#2c3e50/meetvaghani12"
+    src="https://ghchart.rshah.org/2c3e50/meetvaghani12"
     alt="Meet Vaghani's GitHub contribution graph"
   />
 </p>
