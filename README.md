@@ -99,7 +99,13 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-
+<p align="center">
+  <!-- Text after the slash is HEX for the square colour (00bfff = sky-blue)        -->
+  <img
+    src="https://ghchart.rshah.org/00bfff/meetvaghani12"
+    alt="Meet Vaghani's GitHub contribution graph"
+  />
+</p>
 
   <br/>
   <img 
