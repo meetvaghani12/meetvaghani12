@@ -102,7 +102,7 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
 <p align="center">
   <!-- Text after the slash is HEX for the square colour (00bfff = sky-blue)        -->
   <img
-    src="https://ghchart.rshah.org/00bfff/meetvaghani12"
+    src="https://ghchart.rshah.org/2e4053/meetvaghani12"
     alt="Meet Vaghani's GitHub contribution graph"
   />
 </p>
@@ -114,32 +114,6 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
   />
 
 
-</p>
-## 🏗️ Contribution Visuals
-
-<!-- ① Flat calendar (sky-blue squares) -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/00bfff/meetvaghani12"
-       alt="Meet Vaghani • contribution calendar" />
-</p>
-
-<!-- ② 3-D isometric “city” (auto-generated nightly) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meetvaghani12/meetvaghani12/output/profile-3d-contrib/profile-green-animate.svg"
-       alt="3-D contribution city" />
-</p>
-
-<!-- ③ Animated snake (updates every 6 h) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meetvaghani12/meetvaghani12/output/github-snake.svg"
-       alt="Snake eating my contributions" />
-</p>
-
-<!-- ④ Trophy wall (live data, no action needed) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meetvaghani12&theme=onedark"
-       alt="GitHub trophies" />
-</p>
 
 ---
 
