@@ -99,10 +99,11 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=meetvaghani12&show_icons=true&theme=radical&hide_border=true" 
-    alt="GitHub Stats" 
-  />
+ <img 
+  src="https://github-readme-stats.vercel.app/api?username=meetvaghani12&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+  alt="GitHub Stats" 
+/>
+
   <br/>
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=meetvaghani12&theme=dracula" 
