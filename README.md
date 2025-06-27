@@ -100,8 +100,8 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=meetvaghani12&theme=radical&border_radius=5" 
-    alt="GitHub Streak" 
+    src="https://github-readme-stats.vercel.app/api?username=meetvaghani12&show_icons=true&theme=radical&hide_border=true" 
+    alt="GitHub Stats" 
   />
   <br/>
   <img 
