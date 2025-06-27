@@ -109,6 +109,17 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
     src="https://github-readme-activity-graph.vercel.app/graph?username=meetvaghani12&theme=dracula" 
     alt="GitHub Activity Graph" 
   />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meetvaghani12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+## 📈 Contributions
+
+<p align="center">
+  <a href="https://github.com/meetvaghani12">
+    <img src="https://ghchart.rshah.org/00bfff/meetvaghani12" alt="Meet's GitHub chart" />
+  </a>
+</p>
+
 </p>
 
 ---
