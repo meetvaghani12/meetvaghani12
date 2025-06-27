@@ -109,7 +109,7 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
 
 <p align="center">
   <a href="https://github.com/meetvaghani12">
-    <img src="https://ghchart.rshah.org/6A0DAD/meetvaghani12" alt="Meet's GitHub chart" />
+    <img src="https://ghchart.rshah.org/9370DB/meetvaghani12" alt="Meet's GitHub chart" />
   </a>
 </p>
 
