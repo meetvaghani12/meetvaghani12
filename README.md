@@ -99,9 +99,15 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetvaghani12&theme=radical" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=meetvaghani12&theme=radical&border_radius=5" 
+    alt="GitHub Streak" 
+  />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meetvaghani12&theme=dracula" alt="GitHub Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=meetvaghani12&theme=dracula" 
+    alt="GitHub Activity Graph" 
+  />
 </p>
 
 ---
