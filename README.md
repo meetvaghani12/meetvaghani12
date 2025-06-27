@@ -1,13 +1,11 @@
 <h1 align="center">🏡 Welcome to My GitHub!</h1>
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?lines=Full-stack%20Developer;AI%20Enthusiast;Let's%20build%20something%20amazing!&center=true&width=500&height=30&color=00bfff&duration=1500"
     alt="Typing SVG"
   />
 </p>
-
-
-
 
 <p align="center">
 Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack developer and AI enthusiast.  
@@ -101,7 +99,7 @@ Hi there! I'm <strong>Meet Vaghani</strong> – a passionate full-stack develope
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=meetvaghani12&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetvaghani12&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meetvaghani12&theme=dracula" alt="GitHub Activity Graph" />
 </p>
