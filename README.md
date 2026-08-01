@@ -154,7 +154,6 @@ from a blank repo to a monitored production service.
 - ✅ **Claude Certified Architect — Professional**
 - ✅ **AWS Certified Solutions Architect – Associate**
 - ✅ **Certified Partner Specialist Gemini Enterprise Deployment**
-- ✅ **Certified Partner Specialist Gemini Enterprise Deployment**
 - ✅ **Certified Partner Specialist Gemini Enterprise Agent Development**
 
 ---
