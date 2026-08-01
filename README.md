@@ -151,6 +151,9 @@ from a blank repo to a monitored production service.
 
 ### 🏆 Certifications
 - ✅ **Google Cloud Associate Cloud Engineer**
+- ✅ **Claude Certified Architect — Professional**
+- - ✅ **AWS Certified Solutions Architect – Associate**
+    
 
 ---
 
