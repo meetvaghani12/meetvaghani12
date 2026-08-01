@@ -155,6 +155,7 @@ from a blank repo to a monitored production service.
 - ✅ **AWS Certified Solutions Architect – Associate**
 - ✅ **Certified Partner Specialist Gemini Enterprise Deployment**
 - ✅ **Certified Partner Specialist Gemini Enterprise Agent Development**
+- ✅ **Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]**
 
 ---
 
