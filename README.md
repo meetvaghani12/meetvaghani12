@@ -153,7 +153,9 @@ from a blank repo to a monitored production service.
 - ✅ **Google Cloud Associate Cloud Engineer**
 - ✅ **Claude Certified Architect — Professional**
 - ✅ **AWS Certified Solutions Architect – Associate**
-    
+- ✅ **Certified Partner Specialist Gemini Enterprise Deployment**
+- ✅ **Certified Partner Specialist Gemini Enterprise Deployment**
+- ✅ **Certified Partner Specialist Gemini Enterprise Agent Development**
 
 ---
 
